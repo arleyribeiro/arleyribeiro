@@ -24,11 +24,17 @@ Here are some ideas to get you started:
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arleyribeiro&count_private=true&show_icons=true&title_color=fff&icon_color=d76aa8&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arleyribeiro&count_private=true&show_icons=true&title_color=fff&icon_color=00ff55&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=176/>
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arleyribeiro&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arleyribeiro&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=176 />
 </span>
 
+<div>
+<span align="end">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farleyribeiro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+</span>
+</div>
 
