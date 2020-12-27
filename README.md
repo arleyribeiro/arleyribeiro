@@ -1,4 +1,3 @@
-
 <!--
 ### Hi there 👋
 **arleyribeiro/arleyribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,25 +15,36 @@ Here are some ideas to get you started:
 -->
 
 <span align="center">
-  
-### Sofware Engineer
+  ### Sofware Engineer
 
-<a href="https://www.linkedin.com/in/arley-ribeiro/" target="_blank">![image](https://flat.badgen.net/badge/in/arleyribeiro/black)</a> 
-
+  <a href="https://www.linkedin.com/in/arley-ribeiro/" target="_blank"
+    >![image](https://flat.badgen.net/badge/in/arleyribeiro/black)</a
+  >
 </span>
 
-<span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arleyribeiro&count_private=true&show_icons=true&title_color=fff&icon_color=00ff55&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=176/>
-</span>
+<div style="display: grid; justify-content: space-evenly; align-items: center; grid-template-columns: auto auto">
+  <div>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=arleyribeiro&count_private=true&show_icons=true&title_color=fff&icon_color=00ff55&text_color=9f9f9f&bg_color=0d1117"
+      alt="Github Stats"
+      height="176"
+    />
+  </div>
 
-<span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arleyribeiro&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=176 />
-</span>
-
-<div>
-<span align="end">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farleyribeiro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-</span>
+  <div>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arleyribeiro&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117"
+      alt="Github Stats"
+      height="176"
+    />
+  </div>
 </div>
 
+<div style="display: grid; padding: 8px 16px 0px 0px; justify-content: flex-end">
+  <a href="https://hits.seeyoufarm.com"
+    ><img
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farleyribeiro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+  /></a>
+</div>
