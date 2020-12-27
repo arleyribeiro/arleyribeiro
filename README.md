@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <span align="center">
   
-### Sofware Engineer
+### Software Engineer
 
 <a href="https://www.linkedin.com/in/arley-ribeiro/" target="_blank">![image](https://flat.badgen.net/badge/in/arleyribeiro/black)</a> 
 
